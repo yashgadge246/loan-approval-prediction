@@ -69,6 +69,3 @@ It uses a **Machine Learning model (Logistic Regression)** trained on applicant 
 - **Metrics:** Accuracy, Precision, Recall, F1-Score  
 
 ---
-
-git clone https://github.com/YOUR-USERNAME/loan-approval-prediction.git
-cd loan-approval-prediction
